@@ -1,0 +1,26 @@
+80 CREDITS gone for a simple 1 line text-to-speech; total credits 45k, use carefully
+
+Test1.wav
+Chemical formulas pronounced like train stations lol? they need to be in the flow of speaking like the speed needs to match how other text is spoken
+dates are weird we speak simply 24 4 2026 not 04 ; still for vague situations need checks
+
+ideas:
+1. storybook readers for kids, especially bilingual or multilingual readers
+2. clips from famous movies/tv shows translated to other languages for people/other way round
+3.cutomer support, audio books, translation, gaming, content creation, voice assistants, accessibility
+
+Suggestions for testing: (mostly gpt generated; try more)
+Dates and times, abbreviations (Dr., St., vs.), and acronyms
+Math and chemical formulas, code, and symbols
+Units (km/h, mg/dL), roman numerals, and ordinals
+Years and small numbers, which are “kept as written” and may be read wrongly in context
+gen z slangs and short forms? like af ,no cap, be fr, wth, ts pmo?
+Numbers, dates, times, ordinals, phone numbers, currencies
+Abbreviations and acronyms (Dr., St., NASA, SQL, e.g., vs.)
+Units and symbols (5 km/h, 100 mg, 25°C, %, &, @)
+Math, chemical formulas, and equations (H2SO4, x² + 3x = 0)
+Code, URLs, file paths, and emails
+Names from many languages and homographs (read, lead, tear, “St. John St.”)
+Mixed languages and Hinglish
+Very long sentences, lists, tables, headings, footnotes
+Emotion and dialogue, such as quotes and exclamations
